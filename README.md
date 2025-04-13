@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tayabah788
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... programming 
+- 🌱 I’m currently learning ...visual programming 
+- 💞️ I’m looking to collaborate on ... programming and my coding skills
 - 📫 How to reach me ... tayabahstayabahahbaz0@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I’m passionate about writing clean, maintainable code that scales.
